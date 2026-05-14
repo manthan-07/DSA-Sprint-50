@@ -18,7 +18,7 @@ Total LeetCode Solved: 12+
 | 268 | Missing Number | Arrays / Math | Easy |
 | 189 | Rotate Array | Arrays | Medium |
 | 1 | Two Sum | Arrays + Hashing | Easy |
-| 35 | Search Insert Position | Binary Search | Easy |
+| 35 | Search Insert Position | Array | Easy |
 | 121 | Best Time to Buy and Sell Stock | Arrays | Easy |
 
 ## SQL Bonus Practice
