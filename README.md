@@ -4,9 +4,9 @@ This repository tracks my LeetCode-based DSA Sprint 50, where I am solving 50 se
 
 ## Current Progress
 
-DSA Sprint: 8 / 50 completed  
+DSA Sprint: 10 / 50 completed  
 SQL Bonus Practice: 4 problems completed  
-Total LeetCode Solved: 12+
+Total LeetCode Solved: 14+
 
 ## Already Completed
 
@@ -20,6 +20,8 @@ Total LeetCode Solved: 12+
 | 1 | Two Sum | Arrays + Hashing | Easy |
 | 35 | Search Insert Position | Array | Easy |
 | 121 | Best Time to Buy and Sell Stock | Arrays | Easy |
+| 66 | Plus One |  Arrays / Math | Easy |
+| 53 | Maximum Subarray | Arrays | Medium |
 
 ## SQL Bonus Practice
 
