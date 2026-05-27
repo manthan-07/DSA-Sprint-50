@@ -23,6 +23,7 @@ Total LeetCode Solved: 14+
 | 66 | Plus One |  Arrays / Math | Easy |
 | 53 | Maximum Subarray | Arrays | Medium |
 | 169 | Majority Element | Arrays | Easy |
+| 238 | Product of Array Except Self | Arrays | Medium
 
 ## SQL Bonus Practice
 
