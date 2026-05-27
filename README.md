@@ -22,6 +22,7 @@ Total LeetCode Solved: 14+
 | 121 | Best Time to Buy and Sell Stock | Arrays | Easy |
 | 66 | Plus One |  Arrays / Math | Easy |
 | 53 | Maximum Subarray | Arrays | Medium |
+| 169 | Majority Element | Arrays | Easy |
 
 ## SQL Bonus Practice
 
