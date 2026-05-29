@@ -4,9 +4,9 @@ This repository tracks my LeetCode-based DSA Sprint 50, where I am solving 50 se
 
 ## Current Progress
 
-DSA Sprint: 12 / 50 completed  
+DSA Sprint: 14 / 50 completed  
 SQL Bonus Practice: 4 problems completed  
-Total LeetCode Solved: 16+
+Total LeetCode Solved: 18+
 
 ## Already Completed
 
@@ -23,7 +23,9 @@ Total LeetCode Solved: 16+
 | 66 | Plus One |  Arrays / Math | Easy |
 | 53 | Maximum Subarray | Arrays | Medium |
 | 169 | Majority Element | Arrays | Easy |
-| 238 | Product of Array Except Self | Arrays | Medium
+| 238 | Product of Array Except Self | Arrays | Medium |
+| 704 | Binary Search | Binary Search | Easy |
+| 34 | Find First and Last Position of Element in Sorted Array | Binary Search | Medium |
 
 ## SQL Bonus Practice
 
