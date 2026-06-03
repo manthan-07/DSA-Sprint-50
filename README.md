@@ -4,9 +4,9 @@ This repository tracks my LeetCode-based DSA Sprint 50, where I am solving 50 se
 
 ## Current Progress
 
-DSA Sprint: 17 / 50 completed  
+DSA Sprint: 18 / 50 completed  
 SQL Bonus Practice: 4 problems completed  
-Total LeetCode Solved: 21+
+Total LeetCode Solved: 22+
 
 ## Completed
 
@@ -29,6 +29,7 @@ Total LeetCode Solved: 21+
 | 15 | 242 | Valid Anagram | Strings | Easy |
 | 16 | 125 | Valid Palindrome | Strings | Easy |
 | 17 | 14 | Longest Common Subsequence | Strings | Easy |
+| 18 | 15 | Reverse Words in a String | Strings | Medium |
 
 ## SQL Bonus Practice
 
