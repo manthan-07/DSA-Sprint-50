@@ -28,8 +28,8 @@ Total LeetCode Solved: 22+
 | 14 | 34 | Find First and Last Position of Element in Sorted Array | Binary Search | Medium |
 | 15 | 242 | Valid Anagram | Strings | Easy |
 | 16 | 125 | Valid Palindrome | Strings | Easy |
-| 17 | 14 | Longest Common Subsequence | Strings | Easy |
-| 18 | 15 | Reverse Words in a String | Strings | Medium |
+| 17 | 14 | Longest Common Prefix | Strings | Easy |
+| 18 | 151 | Reverse Words in a String | Strings | Medium |
 
 ## SQL Bonus Practice
 
