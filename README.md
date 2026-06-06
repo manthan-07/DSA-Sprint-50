@@ -4,9 +4,9 @@ This repository tracks my LeetCode-based DSA Sprint 50, where I am solving 50 se
 
 ## Current Progress
 
-DSA Sprint: 20 / 50 completed  
+DSA Sprint: 21 / 50 completed  
 SQL Bonus Practice: 4 problems completed  
-Total LeetCode Solved: 24+
+Total LeetCode Solved: 25+
 
 ## Completed
 
@@ -32,6 +32,7 @@ Total LeetCode Solved: 24+
 | 18 | 151 | Reverse Words in a String | Strings | Medium |
 | 19 | 217 | Contains Duplicate | Hash Table | Easy |
 | 20 | 349 | Intersection of Two Arrays | Hash Table | Easy |
+| 21 | 49 | Group Anagrams | Hash Table / Strings | Medium |
 
 ## SQL Bonus Practice
 
