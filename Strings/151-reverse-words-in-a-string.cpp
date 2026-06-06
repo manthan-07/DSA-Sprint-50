@@ -1,5 +1,5 @@
 // LeetCode 151: Reverse Words in a String
-// Approach: 
+// Approach: Created a array consisting of all words and then put those words in reverse order in a new string
 
 class Solution {
 public:
