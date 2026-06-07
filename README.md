@@ -33,6 +33,7 @@ Total LeetCode Solved: 25+
 | 19 | 217 | Contains Duplicate | Hash Table | Easy |
 | 20 | 349 | Intersection of Two Arrays | Hash Table | Easy |
 | 21 | 49 | Group Anagrams | Hash Table / Strings | Medium |
+| 22 | 206 | Reverse Linked List | Linked List | Easy |
 
 ## SQL Bonus Practice
 
