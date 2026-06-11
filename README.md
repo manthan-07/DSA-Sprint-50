@@ -4,9 +4,9 @@ This repository tracks my LeetCode-based DSA Sprint 50, where I am solving 50 se
 
 ## Current Progress
 
-DSA Sprint: 24 / 50 completed  
+DSA Sprint: 27 / 50 completed  
 SQL Bonus Practice: 4 problems completed  
-Total LeetCode Solved: 28+
+Total LeetCode Solved: 31+
 
 ## Completed
 
@@ -35,7 +35,10 @@ Total LeetCode Solved: 28+
 | 21 | 49 | Group Anagrams | Hash Table / Strings | Medium |
 | 22 | 206 | Reverse Linked List | Linked List | Easy |
 | 23 | 21 | Merge Two Sorted Lists | Linked List | Easy |
-| 24 | 141 | Linked List Cycle | Linked List + Hash Table| Easy |
+| 24 | 141 | Linked List Cycle | Linked List + Hash Table | Easy |
+| 25 | 94 | Binary Tree Inorder Traversal | Trees | Easy |
+| 26 | 144 | Binary Tree Preorder Traversal | Trees | Easy |
+| 27 | 145 | Binary Tree Postorder Traversal | Trees | Easy |
 
 ## SQL Bonus Practice
 
