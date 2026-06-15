@@ -4,9 +4,9 @@ This repository tracks my LeetCode-based DSA Sprint 50, where I am solving 50 se
 
 ## Current Progress
 
-DSA Sprint: 29 / 50 completed  
+DSA Sprint: 30 / 50 completed  
 SQL Bonus Practice: 4 problems completed  
-Total LeetCode Solved: 33+
+Total LeetCode Solved: 34+
 
 ## Completed
 
@@ -41,6 +41,7 @@ Total LeetCode Solved: 33+
 | 27 | 145 | Binary Tree Postorder Traversal | Trees | Easy |
 | 28 | 509 | Fibonacci Number | Recursion | Easy |
 | 29 | 3 | Longest Substring Without Repeating Characters | Strings + Hashing | Medium |
+| 30 | 560 | Subarray Sum Equals K | Hashing | Medium |
 
 ## SQL Bonus Practice
 
