@@ -4,9 +4,9 @@ This repository tracks my LeetCode-based DSA Sprint 50, where I am solving 50 se
 
 ## Current Progress
 
-DSA Sprint: 30 / 50 completed  
+DSA Sprint: 32 / 50 completed  
 SQL Bonus Practice: 4 problems completed  
-Total LeetCode Solved: 34+
+Total LeetCode Solved: 36+
 
 ## Completed
 
@@ -43,6 +43,7 @@ Total LeetCode Solved: 34+
 | 29 | 3 | Longest Substring Without Repeating Characters | Strings + Hashing | Medium |
 | 30 | 560 | Subarray Sum Equals K | Hashing | Medium |
 | 31 | 876 | Middle of the Linked List | Linked List | Easy |
+| 32 | 19 | Remove Nth Node From End of List | Linked List | Medium |
 
 ## SQL Bonus Practice
 
