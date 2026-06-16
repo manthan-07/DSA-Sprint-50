@@ -42,6 +42,7 @@ Total LeetCode Solved: 34+
 | 28 | 509 | Fibonacci Number | Recursion | Easy |
 | 29 | 3 | Longest Substring Without Repeating Characters | Strings + Hashing | Medium |
 | 30 | 560 | Subarray Sum Equals K | Hashing | Medium |
+| 31 | 876 | Middle of the Linked List | Linked List | Easy |
 
 ## SQL Bonus Practice
 
