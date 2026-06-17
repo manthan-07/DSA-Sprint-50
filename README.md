@@ -44,6 +44,7 @@ Total LeetCode Solved: 36+
 | 30 | 560 | Subarray Sum Equals K | Hashing | Medium |
 | 31 | 876 | Middle of the Linked List | Linked List | Easy |
 | 32 | 19 | Remove Nth Node From End of List | Linked List | Medium |
+| 33 | 100 | Same Tree | Trees | Easy |
 
 ## SQL Bonus Practice
 
