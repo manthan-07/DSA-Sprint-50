@@ -4,9 +4,9 @@ This repository tracks my LeetCode-based DSA Sprint 50, where I am solving 50 se
 
 ## Current Progress
 
-DSA Sprint: 34 / 50 completed  
+DSA Sprint: 35 / 50 completed  
 SQL Bonus Practice: 4 problems completed  
-Total LeetCode Solved: 38+
+Total LeetCode Solved: 39+
 
 ## Completed
 
@@ -46,6 +46,7 @@ Total LeetCode Solved: 38+
 | 32 | 19 | Remove Nth Node From End of List | Linked List | Medium |
 | 33 | 100 | Same Tree | Trees | Easy |
 | 34 | 226 | Invert Binary Tree | Trees | Easy |
+| 35 | 102 | Binary Tree Level Order Traversal | Trees | Medium |
 
 ## SQL Bonus Practice
 
