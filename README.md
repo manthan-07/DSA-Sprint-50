@@ -4,9 +4,9 @@ This repository tracks my LeetCode-based DSA Sprint 50, where I am solving 50 se
 
 ## Current Progress
 
-DSA Sprint: 37 / 50 completed  
+DSA Sprint: 39 / 50 completed  
 SQL Bonus Practice: 4 problems completed  
-Total LeetCode Solved: 41+
+Total LeetCode Solved: 43+
 
 ## Completed
 
@@ -49,6 +49,8 @@ Total LeetCode Solved: 41+
 | 35 | 102 | Binary Tree Level Order Traversal | Trees | Medium |
 | 36 | 20 | Valid Parentheses | Stack | Easy |
 | 37 | 155 | Min Stack | Stack | Medium |
+| 38 | 232 | Implement Queue using Stacks | Stack & Queue | Easy |
+| 39 | 496 | Next Greater Element I | Stack + Hashing | Easy |
 
 ## SQL Bonus Practice
 
