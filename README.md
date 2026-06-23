@@ -53,6 +53,7 @@ Total LeetCode Solved: 45+
 | 39 | 496 | Next Greater Element I | Stack + Hashing | Easy |
 | 40 | 739 | Daily Temperatures | Stack | Medium |
 | 41 | 78 | Subsets | Backtracking | Medium |
+| 42 | 46 | Permutations | Backtracking | Medium |
 
 ## SQL Bonus Practice
 
