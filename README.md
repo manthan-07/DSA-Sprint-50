@@ -4,9 +4,9 @@ This repository tracks my LeetCode-based DSA Sprint 50, where I am solving 50 se
 
 ## Current Progress
 
-DSA Sprint: 44 / 50 completed  
+DSA Sprint: 45 / 50 completed  
 SQL Bonus Practice: 4 problems completed  
-Total LeetCode Solved: 48+
+Total LeetCode Solved: 49+
 
 ## Completed
 
@@ -56,6 +56,7 @@ Total LeetCode Solved: 48+
 | 42 | 46 | Permutations | Backtracking | Medium |
 | 43 | 39 | Combination Sum | Backtracking | Medium |
 | 44 | 22 | Generate Parentheses | Backtracking | Medium |
+| 45 | 733 | Flood Fill | Graphs/DFS | Easy |
 
 ## SQL Bonus Practice
 
