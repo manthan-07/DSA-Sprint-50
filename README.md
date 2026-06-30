@@ -58,6 +58,7 @@ Total LeetCode Solved: 50+
 | 44 | 22 | Generate Parentheses | Backtracking | Medium |
 | 45 | 733 | Flood Fill | Graphs/DFS | Easy |
 | 46 | 1971 | Find if Path Exists in Graph | Graph/BFS | Easy |
+| 47 | 133 | Clone Graph | Graph/DFS | Medium |
 
 ## SQL Bonus Practice
 
